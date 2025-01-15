@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-    int arr[5],i,avg;
+    int arr[5],i,avg; 
     int max,min,sum=0;
     printf("Enter the age of students:");
     for(i=0;i<5;i++)
